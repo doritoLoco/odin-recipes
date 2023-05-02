@@ -1,1 +1,3 @@
 # odin-recipes
+In this project, I am going to use everything I have learned with the HTML foundations and I am going to create a basic recipe website that is going to have a main page with recipe names and when you click on those names it is going to link to another page on that website.
+This project is going to involve the practice of linking to other pages on the same website, using ordered and unordered lists, and will have images relating to the recipe.
